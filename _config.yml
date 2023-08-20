@@ -39,15 +39,15 @@ features                                  :
     fontawesome_icon_name                 : bolt
 
   - title                                 : Spaced Repetition Algorithm
-    description                           : Accelerate your learning with our intelligent Spaced Repetition Algorithm. It optimizes the review process by presenting words at strategic intervals, ensuring maximum retention. With each review session, you'll reinforce your knowledge and strengthen your long-term memory, making vocabulary recall effortless.
+    description                           : Accelerate your learning with our intelligent Spaced Repetition Algorithm. Optimizes the review process by presenting words at strategic intervals. With each review session, you'll reinforce your knowledge and strengthen your long-term memory.
     fontawesome_icon_name                 : space-shuttle
 
   - title                                 : Sharpen Listening Skills
-    description                           : Train your ears to catch every nuance with our listening exercises. Tune in to authentic TOEIC-style audio recordings and answer questions to sharpen your listening comprehension.
+    description                           : Train your ears to catch every nuance with our listening exercises. Tune in to authentic TOEIC-style audio recordings and answer questions to sharpen your listening comprehension. Gaining the confidence to excel in the listening section.
     fontawesome_icon_name                 : headphones
 
   - title                                 : Track Your Progress
-    description                           : Stay motivated and monitor your progress with detailed statistics and performance insights. Keep tabs on your strengths and areas for improvement, allowing you to tailor your study sessions accordingly. Witness your growth over time and celebrate your milestones on the path to TOEIC success.
+    description                           : Stay motivated and monitor your progress with detailed statistics and performance insights. Keep tabs on your strengths and areas for improvement. Witness your growth over time and celebrate your milestones on the path to TOEIC success.
     fontawesome_icon_name                 : tasks
 
   - title                                 : Engaging Learning Games
@@ -81,7 +81,7 @@ cover_image                               : assets/cover.png                    
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : purple                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
