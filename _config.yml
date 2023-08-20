@@ -56,7 +56,7 @@ features                                  :
 
   - title                                 : Enhance Writing Proficiency
     description                           : Develop your writing skills by practicing with a wide range of vocabulary. Our writing exercises allow you to express yourself using newly acquired words.
-    fontawesome_icon_name                 : pencil-square-o
+    fontawesome_icon_name                 : star
 
   - title                                 : #Easy to use
     description                           : #The App easy and safe to use by selecting a category to review flashcards.
@@ -81,7 +81,7 @@ cover_image                               : assets/cover.png                    
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : coral                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
