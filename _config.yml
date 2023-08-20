@@ -35,20 +35,16 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Flashcard
-    description                           : Let's learn English with beautiful flashcards and sounds! 1000+ words!
+    description                           : Let's learn English with beautiful flashcards and sounds! 1000+ words! Unlock the power of language with our extensive word bank spanning various themes and contexts. From business and finance to travel and technology, we've got you covered.
     fontawesome_icon_name                 : bolt
-
-  - title                                 : Expand Your Vocabulary
-    description                           : Unlock the power of language with our extensive word bank spanning various themes and contexts. From business and finance to travel and technology, we've got you covered.
-    fontawesome_icon_name                 : book
-
-  - title                                 : Sharpen Listening Skills
-    description                           : Train your ears to catch every nuance with our listening exercises. Tune in to authentic TOEIC-style audio recordings and answer questions to sharpen your listening comprehension.
-    fontawesome_icon_name                 : headphones
 
   - title                                 : Spaced Repetition Algorithm
     description                           : Accelerate your learning with our intelligent Spaced Repetition Algorithm. It optimizes the review process by presenting words at strategic intervals, ensuring maximum retention. With each review session, you'll reinforce your knowledge and strengthen your long-term memory, making vocabulary recall effortless.
     fontawesome_icon_name                 : space-shuttle
+
+  - title                                 : Sharpen Listening Skills
+    description                           : Train your ears to catch every nuance with our listening exercises. Tune in to authentic TOEIC-style audio recordings and answer questions to sharpen your listening comprehension.
+    fontawesome_icon_name                 : headphones
 
   - title                                 : Track Your Progress
     description                           : Stay motivated and monitor your progress with detailed statistics and performance insights. Keep tabs on your strengths and areas for improvement, allowing you to tailor your study sessions accordingly. Witness your growth over time and celebrate your milestones on the path to TOEIC success.
@@ -60,11 +56,11 @@ features                                  :
 
   - title                                 : Enhance Writing Proficiency
     description                           : Develop your writing skills by practicing with a wide range of vocabulary. Our writing exercises allow you to express yourself using newly acquired words.
-    fontawesome_icon_name                 : pencil
+    fontawesome_icon_name                 : pencil-square-o
 
-  - title                                 : Easy to use
-    description                           : The App easy and safe to use by selecting a category to review flashcards.
-    fontawesome_icon_name                 : star
+  - title                                 : #Easy to use
+    description                           : #The App easy and safe to use by selecting a category to review flashcards.
+    fontawesome_icon_name                 : #star
 
   - title                                 : #FontAwesome Support
     description                           : #Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
@@ -85,7 +81,7 @@ cover_image                               : assets/cover.png                    
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : yellow                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : purple                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
