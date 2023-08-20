@@ -35,36 +35,36 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Flashcard
-    description                           : Let's learn English with beautiful flashcards and sounds! 500+ Words & Pictures!
+    description                           : Let's learn English with beautiful flashcards and sounds! 1000+ words!
     fontawesome_icon_name                 : bolt
 
-  - title                                 : Design for Kids
-    description                           : The app is suitable for children (or even adults new to English) to learn the first English vocabulary with beautiful and fun flashcards!
-    fontawesome_icon_name                 : child
+  - title                                 : Expand Your Vocabulary
+    description                           : Unlock the power of language with our extensive word bank spanning various themes and contexts. From business and finance to travel and technology, we've got you covered.
+    fontawesome_icon_name                 : book
 
-  - title                                 : Sound Support
-    description                           : The App is designed to teach kids new words through beautiful pictures and sound.
-    fontawesome_icon_name                 : music
+  - title                                 : Sharpen Listening Skills
+    description                           : Train your ears to catch every nuance with our listening exercises. Tune in to authentic TOEIC-style audio recordings and answer questions to sharpen your listening comprehension.
+    fontawesome_icon_name                 : headphones
 
-  - title                                 : Games
-    description                           : Learning game to test your skills
+  - title                                 : Spaced Repetition Algorithm
+    description                           : Accelerate your learning with our intelligent Spaced Repetition Algorithm. It optimizes the review process by presenting words at strategic intervals, ensuring maximum retention. With each review session, you'll reinforce your knowledge and strengthen your long-term memory, making vocabulary recall effortless.
+    fontawesome_icon_name                 : space-shuttle
+
+  - title                                 : Track Your Progress
+    description                           : Stay motivated and monitor your progress with detailed statistics and performance insights. Keep tabs on your strengths and areas for improvement, allowing you to tailor your study sessions accordingly. Witness your growth over time and celebrate your milestones on the path to TOEIC success.
+    fontawesome_icon_name                 : tasks
+
+  - title                                 : Engaging Learning Games
+    description                           : Learning doesn't have to be boring! Put your skills to the test through exciting games that make vocabulary acquisition fun and addictive.
     fontawesome_icon_name                 : gamepad
 
-  - title                                 : Animation
-    description                           : Tap on the card for fun sound and animation!
-    fontawesome_icon_name                 : magic
+  - title                                 : Enhance Writing Proficiency
+    description                           : Develop your writing skills by practicing with a wide range of vocabulary. Our writing exercises allow you to express yourself using newly acquired words.
+    fontawesome_icon_name                 : pencil
 
   - title                                 : Easy to use
     description                           : The App easy and safe to use by selecting a category to review flashcards.
     fontawesome_icon_name                 : star
-
-  - title                                 : #Smart App Banner
-    description                           : #Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : #arrow-alt-circle-down
-
-  - title                                 : #Social Links
-    description                           : #Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #link
 
   - title                                 : #FontAwesome Support
     description                           : #Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
