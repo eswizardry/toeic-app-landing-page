@@ -11,9 +11,9 @@ presskit_download_link                    : #assets/your_press_kit.zip          
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : TOEIC Vocabulary - Word Builder           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : English Vocabulary - Word Builder           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Introducing TOEIC Vocabulary-Word Builder, your ultimate passport to TOEIC success! With a robust collection of over 1000+ hand-picked words, this app will propel your vocabulary skills to new heights. Immerse yourself in an interactive learning experience packed with engaging games that challenge your memory, listening comprehension, and vocabulary writing prowess. Get ready to embark on an exhilarating journey of word mastery!
+app_description                           : Introducing English Vocabulary-Word Builder, your ultimate passport to English success! With a robust collection of over 1000+ hand-picked words, this app will propel your vocabulary skills to new heights. Immerse yourself in an interactive learning experience packed with engaging games that challenge your memory, listening comprehension, and vocabulary writing prowess. Get ready to embark on an exhilarating journey of word mastery!
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
@@ -43,11 +43,11 @@ features                                  :
     fontawesome_icon_name                 : space-shuttle
 
   - title                                 : Sharpen Listening Skills
-    description                           : Train your ears to catch every nuance with our listening exercises. Tune in to authentic TOEIC-style audio recordings and answer questions to sharpen your listening comprehension. Gaining the confidence to excel in the listening section.
+    description                           : Train your ears to catch every nuance with our listening exercises. Tune in to authentic English audio recordings and answer questions to sharpen your listening comprehension. Gaining the confidence to excel in the listening section.
     fontawesome_icon_name                 : headphones
 
   - title                                 : Track Your Progress
-    description                           : Stay motivated and monitor your progress with detailed statistics and performance insights. Keep tabs on your strengths and areas for improvement. Witness your growth over time and celebrate your milestones on the path to TOEIC success.
+    description                           : Stay motivated and monitor your progress with detailed statistics and performance insights. Keep tabs on your strengths and areas for improvement. Witness your growth over time and celebrate your milestones on the path to English success.
     fontawesome_icon_name                 : tasks
 
   - title                                 : Engaging Learning Games
